@@ -1,0 +1,72 @@
+    body{
+background-color: PaleTurquoise;
+ 
+ }
+ #img{
+    float: left;
+    padding-top: 20px;
+ }
+    
+ #aboutme{
+    margin-left:0;
+ }
+#about{
+    padding-top: 20px;
+    
+
+}
+
+#contaner_2{
+    clear: both;
+
+    
+} 
+
+#mybody{
+    background-color: rgb(255, 255, 255);
+    width: 80%;
+    margin:auto ;
+}
+header{ background-color:LightSkyBlue ;
+    height: 80px;
+    padding-top: 20px;
+    text
+    ;
+   
+    
+
+}
+
+footer{ background-color:SteelBlue ;
+    height: 40px;
+    color: PowderBlue;
+
+}
+
+
+*{
+    font-family: 'Quicksand', sans-serif;
+    margin: 0px;
+}
+
+#menu{
+    background-color: Lavender;
+    height: 20px;
+    padding:15px;
+    
+}
+#menu a{background-color: Plum;
+    text-decoration: none;
+    border-style:solid;
+    border-radius: 100px;
+    border-color: black;
+    padding: 5px;
+
+
+}
+
+#menu a:hover{
+    background-color: aquamarine;
+    color: DarkSlateGray	;
+    border-color: DarkSlateGray	;
+}
